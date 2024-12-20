@@ -2,4 +2,4 @@ Flask
 tensorflow
 numpy
 scikit-learn
-gunicorn
+gunicorn==20.1.0
